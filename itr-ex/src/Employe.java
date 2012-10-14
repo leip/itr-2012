@@ -9,7 +9,7 @@
 public class Employe extends Personne {
 
 	/**
-	 * numéro d'employé
+	 * numÈro d'employé
 	 */
 	private int numero;
 	
